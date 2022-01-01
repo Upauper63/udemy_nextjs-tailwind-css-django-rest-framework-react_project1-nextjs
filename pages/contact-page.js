@@ -27,7 +27,7 @@ export default function Contact () {
                 <div className="mt-6 flex justify-around">
                     <div>
                         <a
-                            href="https://nerdcave.com/tailwind-cheat-sheet"
+                            href="https://twitter.com/upauper63"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
